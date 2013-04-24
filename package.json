@@ -1,0 +1,16 @@
+{
+  "name": "require-private",
+  "version": "0.0.1",
+  "description": "Require private modules without having to use relative paths or polluting the node_modules folder",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": "",
+  "author": "",
+  "readmeFilename": "Readme.md",
+  "gitHead": "aac0edcc0591692ed1d9d4fd1102b8402b1b0928"
+}
