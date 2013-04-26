@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha test/*.js"
+    "test": "mocha test/test*/test.js"
   },
   "repository": "",
   "author": "",
