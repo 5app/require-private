@@ -1,6 +1,6 @@
 {
   "name": "require-private",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Require private modules without having to use relative paths or polluting the node_modules folder",
   "main": "lib/main.js",
   "devDependencies": {
